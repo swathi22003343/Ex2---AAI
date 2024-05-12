@@ -1,7 +1,7 @@
 <H3>Enter Name:SWATHI D
 <H3>Enter Register No:212222230154
 <H3>Experiment -2
-<H3>Date:26-2-2024
+<H3>Date:
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
